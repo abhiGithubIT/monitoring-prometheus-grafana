@@ -1,0 +1,14 @@
+grafana-data/
+prometheus-data/
+.env
+# Runtime data (do NOT commit)
+grafana-data/
+prometheus-data/
+
+# Environment files
+.env
+
+# OS / editor files
+.DS_Store
+*.log
+
